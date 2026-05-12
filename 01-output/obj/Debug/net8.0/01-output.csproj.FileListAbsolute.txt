@@ -1,0 +1,15 @@
+C:\Users\User\csharp-learning\01-output\bin\Debug\net8.0\01-output.exe
+C:\Users\User\csharp-learning\01-output\bin\Debug\net8.0\01-output.deps.json
+C:\Users\User\csharp-learning\01-output\bin\Debug\net8.0\01-output.runtimeconfig.json
+C:\Users\User\csharp-learning\01-output\bin\Debug\net8.0\01-output.dll
+C:\Users\User\csharp-learning\01-output\bin\Debug\net8.0\01-output.pdb
+C:\Users\User\csharp-learning\01-output\obj\Debug\net8.0\01-output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\csharp-learning\01-output\obj\Debug\net8.0\01-output.AssemblyInfoInputs.cache
+C:\Users\User\csharp-learning\01-output\obj\Debug\net8.0\01-output.AssemblyInfo.cs
+C:\Users\User\csharp-learning\01-output\obj\Debug\net8.0\01-output.csproj.CoreCompileInputs.cache
+C:\Users\User\csharp-learning\01-output\obj\Debug\net8.0\01-output.sourcelink.json
+C:\Users\User\csharp-learning\01-output\obj\Debug\net8.0\01-output.dll
+C:\Users\User\csharp-learning\01-output\obj\Debug\net8.0\refint\01-output.dll
+C:\Users\User\csharp-learning\01-output\obj\Debug\net8.0\01-output.pdb
+C:\Users\User\csharp-learning\01-output\obj\Debug\net8.0\01-output.genruntimeconfig.cache
+C:\Users\User\csharp-learning\01-output\obj\Debug\net8.0\ref\01-output.dll
