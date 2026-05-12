@@ -1,0 +1,15 @@
+C:\Users\User\csharp-learning\02-input\bin\Debug\net8.0\02-input.exe
+C:\Users\User\csharp-learning\02-input\bin\Debug\net8.0\02-input.deps.json
+C:\Users\User\csharp-learning\02-input\bin\Debug\net8.0\02-input.runtimeconfig.json
+C:\Users\User\csharp-learning\02-input\bin\Debug\net8.0\02-input.dll
+C:\Users\User\csharp-learning\02-input\bin\Debug\net8.0\02-input.pdb
+C:\Users\User\csharp-learning\02-input\obj\Debug\net8.0\02-input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\csharp-learning\02-input\obj\Debug\net8.0\02-input.AssemblyInfoInputs.cache
+C:\Users\User\csharp-learning\02-input\obj\Debug\net8.0\02-input.AssemblyInfo.cs
+C:\Users\User\csharp-learning\02-input\obj\Debug\net8.0\02-input.csproj.CoreCompileInputs.cache
+C:\Users\User\csharp-learning\02-input\obj\Debug\net8.0\02-input.sourcelink.json
+C:\Users\User\csharp-learning\02-input\obj\Debug\net8.0\02-input.dll
+C:\Users\User\csharp-learning\02-input\obj\Debug\net8.0\refint\02-input.dll
+C:\Users\User\csharp-learning\02-input\obj\Debug\net8.0\02-input.pdb
+C:\Users\User\csharp-learning\02-input\obj\Debug\net8.0\02-input.genruntimeconfig.cache
+C:\Users\User\csharp-learning\02-input\obj\Debug\net8.0\ref\02-input.dll
